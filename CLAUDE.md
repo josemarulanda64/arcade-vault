@@ -66,3 +66,8 @@ Tailwind CSS v4 (PostCSS plugin, no `tailwind.config`). The neon design system i
 ### Path alias
 
 `@/*` resolves to the project root (e.g., `@/components/Nav.tsx`).
+
+
+## Skills
+
+Usa siempre /frontend-design para diseñar la interfaz de usuario. 
