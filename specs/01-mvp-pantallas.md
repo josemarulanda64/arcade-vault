@@ -1,6 +1,6 @@
 ---
 spec: 01-mvp-pantallas
-state: Approved
+state: Implemented
 dependencies: none
 date: 2026-06-29
 ---
